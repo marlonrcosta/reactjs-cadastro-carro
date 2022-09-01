@@ -6,8 +6,8 @@ export const Logo = () => {
 
     return (
         <div className="logo" onClick={() => navigate('/')}>
-            <div className="mainLogo"><span>CAR</span>DASTRO</div>
-            <div className="powered">powered by B7Web</div>
+            <div className="mainLogo"><span>CADASTRO</span> CARROS</div>
+            <div className="powered">na web</div>
         </div>
     );
 }

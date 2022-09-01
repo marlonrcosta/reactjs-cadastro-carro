@@ -8,7 +8,7 @@
     cursor: pointer;
 }
 .pointButton div {
-    width: 2px;
-    height: 2px;
+    width: 3px;
+    height: 3px;
     background-color: #000;
 }
